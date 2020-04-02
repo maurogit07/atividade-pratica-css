@@ -1,0 +1,16 @@
+body{
+	background: silver;
+}
+p{
+	font-size: 30px;
+}
+textarea {
+	height: 100px;
+    width: 80%;
+}
+a {
+	text-decoration: none;
+	color: red;
+	padding: 50px;
+	margin: 20px;
+}
